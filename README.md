@@ -1,7 +1,8 @@
-##description
+# Sudoku_EPF_5A
+## Description
 this project resolve sudoku thanks to genetic algorithm.
 
-##Contributor
+## Contributor
 Timothé Le Chatelier
 Maxime Belgaïd
 Alexandre Morray
